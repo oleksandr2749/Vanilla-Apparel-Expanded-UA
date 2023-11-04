@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Apparel Expanded Українською</name>
+  <author>oleksandr</author>
+  <packageId>oleksandr.VanillaApparelExpandedUA</packageId>
+  <modVersion>1.0</modVersion>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <loadAfter>
+    <li>VanillaExpanded.VAPPE</li>
+  </loadAfter>
+  <description></description>
+</ModMetaData>	

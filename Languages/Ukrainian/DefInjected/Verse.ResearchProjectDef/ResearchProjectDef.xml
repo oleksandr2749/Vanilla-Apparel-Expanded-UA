@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--casual wear-->
+  <VAE_CasualWear.label>повсякденний одяг</VAE_CasualWear.label>
+  <!--Craft casual wear with handy features for any life situation.-->
+  <VAE_CasualWear.description>Повсякденний одяг для будь-якої життєвої ситуації.</VAE_CasualWear.description>
+  <!--formal wear-->
+  <VAE_FormalWear.label>діловий одяг</VAE_FormalWear.label>
+  <!--Craft suits and formal wear.-->
+  <VAE_FormalWear.description>Костюми для ділової зустрічі, або ресторану.</VAE_FormalWear.description>
+  <!--work attire-->
+  <VAE_WorkAttire.label>робочий одяг</VAE_WorkAttire.label>
+  <!--Craft comfortable and and functional attire for any kind of work.-->
+  <VAE_WorkAttire.description>Зручне та функціональне вбрання для будь-якої роботи.</VAE_WorkAttire.description>
+  <!--sterile attire-->
+  <VAE_SterileAttire.label>стерильний одяг</VAE_SterileAttire.label>
+  <!--Craft sterile attire used by doctors and scientists.-->
+  <VAE_SterileAttire.description>Стерильний одяг, який використовують лікарі та науковці.</VAE_SterileAttire.description>
+  <!--military clothing-->
+  <VAE_MilitaryClothing.label>військовий одяг</VAE_MilitaryClothing.label>
+  <!--Craft weatherproof outfits to protect your soldiers.-->
+  <VAE_MilitaryClothing.description>Одяг для ваших солдатів.</VAE_MilitaryClothing.description>
+</LanguageData>
